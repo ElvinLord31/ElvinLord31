@@ -5,7 +5,7 @@
 </p>
 
 ---
- <img src="https://i.pinimg.com/originals/fb/b2/6b/fbb26b2b715e34b206d226d798bb186e.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://c.tenor.com/syaGG1_uLpIAAAAd/girls-aesthetic.gif" width="30px" alt=""/></p>
+ <img src="https://i.pinimg.com/originals/fb/b2/6b/fbb26b2b715e34b206d226d798bb186e.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 ![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvinLord31&theme=dark&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRazvyy&layout=compact&theme=dark" alt="top-langs" />
 </p>
