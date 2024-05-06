@@ -1,11 +1,10 @@
-<h2 align="center">hi!,sup? I'm <a href="https://github.com/ElvinLord31">Elvin</a></h2>
+<h2 align="center">sup? I'm <a href="https://github.com/ElvinLord31">Elvin</a></h2>
 <p align="center">
   <a href="https://lightserenity.cf/">Light Serenity</a> •
   <a href="https://darkserenity.cf/">Dark Serenity</a>
 </p>
 
 ---
- <img src="https://i.pinimg.com/originals/fb/b2/6b/fbb26b2b715e34b206d226d798bb186e.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>im king</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 ![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvinLord31&theme=dark&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRazvyy&layout=compact&theme=dark" alt="top-langs" />
 </p>
@@ -17,8 +16,3 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
 ---
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://github.com/ElvinLord31" />
-</p>
