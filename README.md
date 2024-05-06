@@ -1,7 +1,7 @@
 <h2 align="center">sup? I'm <a href="https://github.com/ElvinLord31">Elvin</a></h2>
 <p align="center">
-  <a href="https://lightserenity.cf/">Light Serenity</a> •
-  <a href="https://darkserenity.cf/">Dark Serenity</a>
+  <a href="https://lightserenity.cf/">Im just</a> •
+ 
 </p>
 
 ---
